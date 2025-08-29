@@ -35,3 +35,5 @@ Performance ভালো হয়। Dynamically added child elements এর ক�
    preventDefault() একটি event এর default behavior বন্ধ করে। যেমন: form submit করলে default ভাবে page reload হয়। সেটি থামানো যাবে preventDefault() দিয়ে।
  stopPropagation() Event Bubbling বা Event Capturing বন্ধ করে দেয়। মানে event আর parent element এ propagate হবে না
 
+GitHub Repository : https://github.com/fahad1shakil/GEmergency-Service-Directory
+live link : https://fahad1shakil.github.io/GEmergency-Service-Directory/
